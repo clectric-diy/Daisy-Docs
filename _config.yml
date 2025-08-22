@@ -1,0 +1,7 @@
+title: "DaisyDocs"
+description: "An augmented collection of the documentation provided by daisy.audio."
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+show_downloads: false
+google_analytics: G-TJRSWGLQDX
