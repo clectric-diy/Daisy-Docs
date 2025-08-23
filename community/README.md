@@ -1,8 +1,8 @@
 clectric.diy Community Docs
 
-All documentation in this "community" folder have been created by the clectric.diy Community to augment the docs provided by daisy.audio.
+All documentation in this [community folder](community) have been created by the clectric.diy Community to augment the docs provided by daisy.audio.
 
-Please see the "source" folder for documentation provided by daisy.audio.
+Please see the [source folder](source) for documentation provided by daisy.audio.
 
 ## Combined Daisy Pinouts 
 
